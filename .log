@@ -3803,3 +3803,21 @@
 2020-05-26 17:51:30,419 [12649] DEBUG    matplotlib.colorbar:608: [JupyterRequire] Using auto colorbar locator on colorbar
 2020-05-26 17:51:30,419 [12649] DEBUG    matplotlib.colorbar:609: [JupyterRequire] locator: <matplotlib.colorbar._ColorbarAutoLocator object at 0x7f8705dc3110>
 2020-05-26 17:51:30,419 [12649] DEBUG    matplotlib.colorbar:780: [JupyterRequire] Setting pcolormesh
+2020-06-13 13:58:02,655 [4526] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2020-06-13 13:58:02,681 [4526] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2020-06-13 13:58:02,681 [4526] INFO     root:247: [JupyterRequire] Initializing comms.
+2020-06-13 13:58:02,689 [4526] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2020-06-13 13:58:02,691 [4526] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2020-06-13 13:58:02,692 [4526] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2020-06-13 14:34:26,816 [4759] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2020-06-13 14:34:26,816 [4759] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2020-06-13 14:34:26,816 [4759] INFO     root:247: [JupyterRequire] Initializing comms.
+2020-06-13 14:34:26,818 [4759] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2020-06-13 14:34:26,818 [4759] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2020-06-13 14:34:26,819 [4759] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2020-06-14 08:49:47,705 [3845] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2020-06-14 08:49:47,731 [3845] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2020-06-14 08:49:47,732 [3845] INFO     root:247: [JupyterRequire] Initializing comms.
+2020-06-14 08:49:47,740 [3845] DEBUG    root:197: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2020-06-14 08:49:47,741 [3845] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2020-06-14 08:49:47,741 [3845] DEBUG    root:97: [JupyterRequire] Registering comm targets.
